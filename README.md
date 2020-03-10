@@ -15,11 +15,11 @@ converted model on ncnn is from [ncnn-assert](https://github.com/nihui/ncnn-asse
 ## organization
 the sim-overall android-organization is here
 
-![organization](test_img/organization.png)
+![organization](./test_img/organization.png)
 
 ## result
 infer time on **845** in float32 is aroud ***100ms***, depending on the object  
-![845-cpu](test_img/845-cpu-dog.jpg)
-![845-gpu](test_img/845-gpu-dog.jpg)
+![845-cpu](./test_img/845-cpu-dog.jpg)
+![845-gpu](./test_img/845-gpu-dog.jpg)
 
 **ncnn** is good in optimazing on float32
