@@ -14,6 +14,7 @@ notice：the model in ncnn/example/mobilenetssd is too old to perform，please u
 converted model on ncnn is from [ncnn-assert](https://github.com/nihui/ncnn-assets)
 
 ## organization
+using **ncnn** and **opencv** on android  
 the sim-overall android-organization is here
 
 ![organization](./test_img/organization.png)
